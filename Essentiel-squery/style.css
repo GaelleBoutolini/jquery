@@ -1,0 +1,15 @@
+div{
+    width:600px;
+     height:200px;
+      background:rgb(178, 50, 18);
+      position: absolute;
+      padding: 10px;
+}
+
+button{
+    margin: 10px;
+}
+
+/* #p1{
+    font-weight: bold;
+} */
